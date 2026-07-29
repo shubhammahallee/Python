@@ -46,7 +46,7 @@ while True:
     if is_victory('X'):
         print("X is the winner!")
         break
-    elif is_board_full():
+    elif is_board_full(): 
         print("It's a tie!")
         break
     
