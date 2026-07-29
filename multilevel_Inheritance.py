@@ -1,5 +1,5 @@
 class Employee:
-    start_time = "10am"
+    start_time = "10am" 
     end_time = "6pm"
     
 
