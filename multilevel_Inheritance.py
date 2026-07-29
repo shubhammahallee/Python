@@ -15,4 +15,4 @@ class Accountant(AdminStaff):
         
 
 acc1 = Accountant(97_500, "clerk")
-print(acc1.role, acc1.salary)
+print(acc1.role, acc1.salary) 
