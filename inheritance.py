@@ -4,7 +4,7 @@ class Employee:
     
     def change_time(self, new_end_time):
         self.end_time = new_end_time
-
+ 
 
 class Teacher(Employee):
     def __init__(self, subject):
