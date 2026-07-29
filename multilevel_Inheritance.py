@@ -9,7 +9,7 @@ class AdminStaff(Employee):
         
 
 class Accountant(AdminStaff):
-    def __init__(self, salary, role):
+    def __init__(self, salary, role): 
         super().__init__(role)  
         self.salary = salary
         
