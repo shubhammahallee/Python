@@ -4,7 +4,7 @@ class Employee:
     
 
 class AdminStaff(Employee):
-    def __init__(self, role):    
+    def __init__(self, role):     
         self.role = role
         
 
