@@ -13,4 +13,4 @@ class TA(Teacher,Student):
         self.name = name
         
 ta1 = TA(17_000,8.8,"Shmabhu")    
-print(ta1.name,ta1.gpa,ta1.salary)
+print(ta1.name,ta1.gpa,ta1.salary) 
