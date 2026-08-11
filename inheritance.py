@@ -21,3 +21,4 @@ t1.change_time("5pm")
 staff1 = AdminStaff("HOD")
 
 print(t1.subject, t1.start_time, t1.end_time,staff1.role)  
+ 
