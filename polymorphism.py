@@ -5,4 +5,4 @@ class BankAccount:
         self.__loan = loan      #private
 acc1 = BankAccount("Shubham",1_00_000, 5_00_000)
 print(acc1.name,acc1._balance)
-print(acc1._BankAccount__loan)   # Name mangling      
+print(acc1._BankAccount__loan)   # Name mangling       
